@@ -6,6 +6,6 @@ Mobil dükkanalrda bulunan birleştirme oyunlarının basit bir versiyonudur. Ta
 
 ### Oyunu oynamak için sadece [dist klasörü](https://github.com/cihadceviz/merge_game/tree/master/dist) içindeki .exe uzantılı dosyayı veya rar dosyasını indirebilirsiniz. Merak edenler için kodları ile birlikte yüklüyorum.
 
-# -----------------------------------------------------------------------
+# ---------------------------
 
 ## Tamemen bitirmem ve exe haline getirmem 2 saatten daha az sürmüştür boş zamanlarımda geliştirmeyi planlıyorum
